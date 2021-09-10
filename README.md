@@ -3,4 +3,4 @@ Adv-ESC repository contains adversarial attack dataset of three popular adversar
 Two datasets are created for the ESC-10 and DCASE 2019 Task 1A datasets. 
 Each attack dataset contains train and test datasets.
 Confusion Matrix Shows Performance of The Model Under Three Adversarial Attacks. 
-Currently The Repository Contains Adversarial Dataset Only for The ESC-10. The Adversarial Dataset for DCASE 2019 Task-1A Dataset Will be Released After The Acceptance of Paper. 
+Currently The Repository Contains Adversarial Dataset Only for The ESC-10. The Adversarial Dataset for DCASE 2019 Task-1A Dataset Will be Released After Acceptance of The Paper. 
